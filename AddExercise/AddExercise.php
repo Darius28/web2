@@ -49,7 +49,7 @@ if(isset($_POST['name'])){
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light navbarMain">
         <div class="container-fluid" style="height: 70px; margin-bottom: 10px; ">
-          <a class="navbar-brand" href="../index.html" style="font-weight:normal; font-size:40px; margin-left: 20px;"> FitLife</a>
+          <a class="navbar-brand" href="../dashboard.php" style="font-weight:normal; font-size:40px; margin-left: 20px;"> FitLife</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -193,7 +193,7 @@ if(isset($_POST['name'])){
       <div style="height: 6vh;"></div>
       <div style="height: 6vh;"></div>
       <div style="height: 6vh;"></div>
-      <span style="margin: auto; grid-column: 2/3;"><a href="./index.html"
+      <span style="margin: auto; grid-column: 2/3;"><a href="../dashboard.php"
         style="color: black; text-decoration: none;" class="logo">&copy; FitLife</a></span> 
     </div>
 </footer>

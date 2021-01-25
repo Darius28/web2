@@ -274,7 +274,7 @@
       <div style="height: 6vh;"></div>
       <div style="height: 6vh;"></div>
       <div style="height: 6vh;"></div>
-      <span style="margin: auto; grid-column: 2/3;"><a href="./index.html"
+      <span style="margin: auto; grid-column: 2/3;"><a href="dashboard.php"
         style="color: black; text-decoration: none;" class="logo">&copy; FitLife</a></span> 
     </div>
 </footer>
